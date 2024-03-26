@@ -50,7 +50,7 @@ int main(void)
 ```
 
 
-##OUTPUT
+## OUTPUT
 
 ![315942124-252193ae-b9d6-40ce-b6d8-70ed10ed9d0d](https://github.com/RamkumarGunasekaran/Linux-Process-API-fork-wait-exec/assets/144870820/e37b1a01-9f81-4fc6-8f12-49a38bfcc232)
 
@@ -91,7 +91,7 @@ exit(0);}
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
@@ -132,7 +132,7 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 
 
-##OUTPUT
+## OUTPUT
 
 
 
